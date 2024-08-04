@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Laravel](https://laravel.com/)
 - [Composer](https://getcomposer.org/)
-- [Bootstrap](https://getbootstrap.com/) for the frontend framework
+- [Tailwind](https://tailwindcss.com/) for the frontend framework
 
 ---
 
