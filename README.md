@@ -68,29 +68,6 @@ A simple Todo application built with Laravel.
 2. Create new todos by clicking on the "Add Todo" button.
 3. Manage your todos using the provided interface. You can mark todos as complete, edit them, or delete them.
 
-## Contributing
-
-If you wish to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Add some feature"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Laravel](https://laravel.com/)
@@ -99,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy coding!
+First project in Laravel.
